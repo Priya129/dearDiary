@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826773417845",
+    "project_id": "videoplayer-bcf71",
+    "storage_bucket": "videoplayer-bcf71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826773417845:android:bcf46f9d6998f3289cad3c",
+        "android_client_info": {
+          "package_name": "com.flutterfusion.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826773417845-ql8i9mfculj5i0ovhnd1k7fse0reqltm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayaKi2ATLcRQwqLs-RNCFQfj6dAN104M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826773417845-ql8i9mfculj5i0ovhnd1k7fse0reqltm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
